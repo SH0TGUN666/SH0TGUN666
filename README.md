@@ -13,8 +13,8 @@ YOLOv11 driver-fatigue dataset (~9.7k images, 7 classes) for temporal multi-feat
 
 ## Publication
 
-Yi Li et al., *A Comparative Study of Fatigue Detection Models Based on Temporal Feature Fusion*, IEEE ITSC 2025.  
-[Dataset](https://github.com/SH0TGUN666/driver-fatigue-dataset)
+Yi Li, Changwen Fan, Le Yang, Yingqi Wang, Pao-Min Tu, and Jung-Kuei Yang, *A Comparative Study on Fatigue Detection Models With Temporal Feature Fusion*, IEEE ICEICT 2025, Weihai, pp. 439–444.  
+[DOI](https://doi.org/10.1109/iceict66683.2025.11160205) · [Dataset](https://github.com/SH0TGUN666/driver-fatigue-dataset)
 
 ## Contact
 
